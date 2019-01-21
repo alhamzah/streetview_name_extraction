@@ -18,8 +18,8 @@
 A simple usage example:
 python train.py
 """
-import os
-os.environ['CUDA_VISIBLE_DEVICES'] = ''
+#import os
+#os.environ['CUDA_VISIBLE_DEVICES'] = ''
 import collections
 import logging
 import tensorflow as tf
